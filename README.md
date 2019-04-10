@@ -5,3 +5,6 @@ ThingsBoard is an open-source server-side platform that allows you to monitor an
 
 ESP32 is a series of low-cost, low-power SOC microcontrollers with integrated self-contained Wi-Fi and dual-mode Bluetooth.
 This sample application allow you to deliver a new firmware images to EPS32 with using ThingsBoard and OTA.
+
+
+git push --mirror https://github.com/dineshnaikc/blink-esp32-ota.git
